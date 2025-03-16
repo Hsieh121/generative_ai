@@ -13,3 +13,7 @@
 - 總共有四層，神經元分別為N1 = 160，N2 = 320，N3 = 640，N4 = 1280
 - 過程穿插dropout避免overfitting
 - 使用gradio來與使用者互動
+
+## hw3
+- 使用GAN與diffusion的方式用同一個prompt產出五組圖片進行比較
+- 比較為什麼現在較沒有人在使用GAN來生圖？
