@@ -51,3 +51,4 @@
 - 選用"stablediffusionapi/sdvn5-3dcutewave"製作可愛3D角色生成器
 - 用groq將使用者輸入翻譯成英文
 - 反覆試驗找出適合的 default_enhance prompt 和 default_negative prompt
+- google colab連結：https://colab.research.google.com/drive/1N8cUlSGF03eaabDEediAUg8ckLqqKfef?usp=sharing
