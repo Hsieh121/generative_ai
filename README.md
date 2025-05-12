@@ -41,4 +41,13 @@
 
 ### hw8
 - 用CoT的方式延續hw5的主題完成ai回應
-- 先生成五種大綱，再從中挑選最適合的完成回應 
+- 先生成五種大綱，再從中挑選最適合的完成回應
+
+### hw9
+- 試用diffussion model產出自訂風格的圖片
+- 選用進擊的巨人風格
+
+### hw10
+- 選用"stablediffusionapi/sdvn5-3dcutewave"製作可愛3D角色生成器
+- 用groq將使用者輸入翻譯成英文
+- 反覆試驗找出適合的 default_enhance prompt 和 default_negative prompt
