@@ -58,3 +58,6 @@
 - 用groq將使用者輸入翻譯成英文
 - 反覆試驗找出適合的 default_enhance prompt 和 default_negative prompt
 - google colab連結：https://colab.research.google.com/drive/1N8cUlSGF03eaabDEediAUg8ckLqqKfef?usp=sharing
+
+### hw11
+- 用fooocus產出不同風格和目的的圖片
