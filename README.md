@@ -61,3 +61,6 @@
 
 ### hw11
 - 用fooocus產出不同風格和目的的圖片
+
+### hw12
+- 透過 Gradio 介面，整合 Google Maps API 與 Gemma-7B-it 大型語言模型，實現對餐廳評論的即時 AI 摘要功能。
