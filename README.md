@@ -66,9 +66,14 @@
 - 透過 Gradio 介面，整合 Google Maps API 與 Gemma-7B-it 大型語言模型，實現對餐廳評論的即時 AI 摘要功能。
 
 ### hw13（期末專案）
--本專案是一個 AI 驅動的餐廳評論分析工具，旨在幫助使用者快速了解位於台北市大安區的餐廳口碑。它透過串接 Google Maps API 獲取即時顧客評論，並利用 Gemma-7B 大型語言模型生成精簡的摘要。所有功能均整合在一個以 Gradio 建構、易于操作的 Web 介面中呈現。
+- 本專案是一個 AI 驅動的餐廳評論分析工具，旨在幫助使用者快速了解位於台北市大安區的餐廳口碑。
+- 透過串接 Google Maps API 獲取即時顧客評論，並利用 Gemma-7B 大型語言模型生成精簡的摘要。
+- 所有功能均整合在一個以 Gradio 建構、易于操作的 Web 介面中呈現。
+- google colab連結：https://colab.research.google.com/drive/13CdvIF_CQENOvxDfOC7MS5e-wo0_MPU0?usp=sharing
 
 ### project
--本專案是一個 AI 驅動的餐廳評論分析工具，旨在幫助使用者快速了解位於台北市大安區的餐廳口碑。它透過串接 Google Maps API 獲取即時顧客評論，並利用 Gemma-7B 大型語言模型生成精簡的摘要。所有功能均整合在一個以 Gradio 建構、易于操作的 Web 介面中呈現。
-
+- 本專案是一個 AI 驅動的餐廳評論分析工具，旨在幫助使用者快速了解位於台北市大安區的餐廳口碑。
+- 透過串接 Google Maps API 獲取即時顧客評論，並利用 Gemma-7B 大型語言模型生成精簡的摘要。
+- 所有功能均整合在一個以 Gradio 建構、易于操作的 Web 介面中呈現。
+- google colab連結：https://colab.research.google.com/drive/13CdvIF_CQENOvxDfOC7MS5e-wo0_MPU0?usp=sharing
 
